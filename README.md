@@ -9,3 +9,4 @@ Hệ thống sử dụng vi điều khiển **ESP32 (Dual-Core FreeRTOS)** kết
 
 ## 3. Link Demo Giao diện Web Dashboard
 👉 Truy cập trực tiếp tại: **[https://qoobeecue.github.io/ESP32-FreeRTOS-CoffeeGarden-IoT/](https://qoobeecue.github.io/ESP32-FreeRTOS-CoffeeGarden-IoT/)**
+⚡ **Mô phỏng phần cứng Wokwi: **https://wokwi.com/projects/480603111342616577**
