@@ -8,4 +8,4 @@ Hệ thống sử dụng vi điều khiển **ESP32 (Dual-Core FreeRTOS)** kết
 - **Core 1 (`TaskReadSensor` & `TaskAlertControl`):** Đọc DHT22 chu kỳ 2s với bộ lọc trung bình trượt thích ứng; vận hành máy trạng thái không chặn điều khiển phun sương PWM 3 mức (`25% / 50% / 100%`), nghỉ khuếch tán `Cooldown 30s`, vùng trễ `Hysteresis (40% - 45%)` và quạt thông gió chống nấm (`> 60%`).
 
 ## 3. Link Demo Giao diện Web Dashboard
-👉 Truy cập trực tiếp tại: **https://<username-cua-ban>.github.io/ESP32-FreeRTOS-CoffeeGarden-IoT/**
+👉 Truy cập trực tiếp tại: **[https://qoobeecue.github.io/ESP32-FreeRTOS-CoffeeGarden-IoT/](https://qoobeecue.github.io/ESP32-FreeRTOS-CoffeeGarden-IoT/)**
